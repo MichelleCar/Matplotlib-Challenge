@@ -62,5 +62,5 @@ The obtained results showed that:
 <img width="637" alt="Screen Shot 2022-11-26 at 1 28 37 AM" src="https://user-images.githubusercontent.com/115101031/204075503-1b080a1c-2908-4012-8815-cd3ced24f983.png">
 <img width="568" alt="Screen Shot 2022-11-26 at 1 30 54 AM" src="https://user-images.githubusercontent.com/115101031/204075589-3d298172-02f4-4443-aa3e-0daf8f06f20d.png">
 
-* Looking at the correlation between weight of the mice and the volume of tumours.  While correlation is not necessarily causation, it could provude a useful avenue for future research potential.
+* Looking at the correlation between weight of the mice and the volume of tumours, we find a negative correlation, informing that a relationship exists, where as weight increases, the volume of the tumours decreases.  While correlation is not necessarily causation, it could provude a useful avenue for future research.
 <img width="558" alt="Screen Shot 2022-11-26 at 1 31 46 AM" src="https://user-images.githubusercontent.com/115101031/204075782-bee7cd31-060c-4552-b024-d9de6ee02472.png">
